@@ -66,17 +66,16 @@ The regression line fits the data very closely, with R² ≈ 99.5%.
 Blue points: Actual data, Red line: Predicted regression line
 
 🚀 How to Run
-bash
-Copy
-Edit
+
 # Clone repository
-git clone <your-repo-link>
+git clone https://github.com/ishanegi5/linear-regression-salary-prediction.git
 
 # Navigate to project folder
-cd <project-folder>
+cd linear-regression-salary-prediction
 
 # Install dependencies
 pip install numpy pandas matplotlib scikit-learn
+
 
 # Run Jupyter Notebook or Python script
 📌 Note
