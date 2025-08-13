@@ -7,16 +7,19 @@ The dataset is small (10 records) and was created for practice purposes to under
 
 📊 Dataset
 Experience (Years)	Salary (₹)
-1	15000
-2	20000
-3	25000
-4	30000
-5	32000
-6	45000
-7	55000
-8	58000
-9	65000
-10	75000
+| Experience (Years) | Salary (₹) |
+| ------------------ | ---------- |
+| 1                  | 15000      |
+| 2                  | 20000      |
+| 3                  | 25000      |
+| 4                  | 30000      |
+| 5                  | 32000      |
+| 6                  | 45000      |
+| 7                  | 55000      |
+| 8                  | 58000      |
+| 9                  | 65000      |
+| 10                 | 75000      |
+
 
 Source: Synthetic (self-created)
 Size: 10 rows × 2 columns
